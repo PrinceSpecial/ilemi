@@ -1,0 +1,55 @@
+**ID 1**
+- **Contenu:** Parcelle (NUP 100666667) objet de la demande de titre foncier par Monsieur METANGNI Tolodji Nounagnon Audrey agissant en son nom et pour son compte personnel, Tél : 01 96 15 22 66/01 40 17 44 45, suivant la demande de confirmation cadastrale de droits fonciers numéro 9416 du 25 août 2025.
+- **Date de début:** 2025-09-08
+- **Date de fin:** 2025-09-23
+
+**ID 2**
+- **Contenu:** Suivant demande de confirmation cadastrale de droits fonciers numéro 1014 du 04 février 2025, Monsieur Daniel TCHANGODINA, Chef du Bureau Communal du Domaine et du Foncier de Ouidah, demeurant et domicilié à Cotonou, majeur non interdit, jouissant de ses droits civils, agissant au nom et pour le compte de l'Etat Béninois, a demandé la confirmation cadastrale de droits fonciers au registre foncier de la Commune de Ouidah, sur l'immeuble objet du Numéro Unique Parcellaire (NUP) 101236087 et présentant les informations ci-après :
+    - Commune : Ouidah
+    - Arrondissement : Avlékété
+    - Village/Quartier : Adounko
+    - Centroïde : X= 421842 ; Y= 701745
+    - Superficie calculée : 206097 m2
+- Il déclare en outre que ledit immeuble appartient à l'Etat Béninois, et qu'il n'est pas grevé de droits ou charges réelles actuelles ou éventuelles, et qu'il s'y retrouve les titres fonciers numéros 3510, 3515, 3512, 3513, 3514 et 3511 de Ouidah, propriétés de l'Etat Béninois.
+- **NB:** Les informations à date sur la parcelle peuvent être consultés à travers le lien https://cadastre.andf.bj/nup/101236087
+- **Date de début:** 2025-02-04
+- **Date de fin:** 2025-02-19
+
+**ID 3**
+- **Contenu:** Suivant demande de confirmation cadastrale de droits fonciers numéro 1011 du 27 janvier 2025, Monsieur Daniel TCHANGODINA, Chef du Bureau Communal du Domaine et du Foncier de Ouidah, demeurant et domicilié à Cotonou, majeur non interdit, jouissant de ses droits civils, agissant au nom et pour le compte de l'Etat Béninois, a demandé la confirmation cadastrale de droits fonciers au registre foncier de la Commune de Ouidah, sur l'immeuble objet du Numéro Unique Parcellaire (NUP) 101236307 et présentant les informations ci-après :
+    - Commune : Ouidah
+    - Arrondissement : Ouidah II
+    - Village/Quartier : Gbèna-Nord
+    - Centroïde : X= 397080 ; Y= 702867
+    - Superficie calculée : 124285 m2
+- Il déclare en outre que ledit immeuble appartient à l'Etat Béninois, et qu'il n'est pas grevé de droits ou charges réelles actuelles ou éventuelles.
+- **NB:** Les informations à date sur la parcelle peuvent être consultés à travers le lien https://cadastre.andf.bj/nup/101236307
+- **Date de début:** 2025-02-04
+- **Date de fin:** 2025-02-19
+
+**ID 4**
+- **Contenu:** Suivant demande de confirmation cadastrale de droits fonciers numéro 8712 du 04 février 2025, Monsieur Koassi Modeste HOUNNOUGBO, Chef du Bureau Communal du Domaine et du Foncier d'Abomey-Calavi, demeurant et domicilié à Abomey-Calavi, majeur non interdit, jouissant de ses droits civils, agissant au nom et pour le compte de l'Etat Béninois, a demandé la confirmation cadastrale de droits fonciers au registre foncier de la Commune d'Abomey-Calavi, sur l'immeuble objet du Numéro Unique Parcellaire (NUP) 101236198 et présentant les informations ci-après :
+    - Département : Atlantique
+    - Commune : Abomey-Calavi
+    - Arrondissement : Godomey
+    - Village/Quartier : Togbin-Daho
+    - Numéro lors de l'enregistrement : IR033-03102420001-0001
+    - Référence locale : EL : Lot : Parcelle : RFU= quartier : ilot : parcelle
+    - Centroïde : X= 422946 ; Y= 701870
+    - Superficie calculée: 187420 m2
+- Il déclare en outre que ledit immeuble appartient à l'Etat Béninois, qu'il n'est pas grevé de droits ou charges réelles actuelles ou éventuelles, et qu'il s'y retrouve les TF N°2207, 2699, 2785, 2792, 4136, 4236, 8015, 20090, 26189 et 26190 d'Abomey-Calavi, propriétés de l'Etat Béninois.
+- **NB:** Les informations à date sur la parcelle peuvent être consultées à travers le lien https://cadastre.andf.bj/nup/101236198
+- **Date de début:** 2025-02-04
+- **Date de fin:** 2025-02-19
+
+**ID 5**
+- **Contenu:** Suivant demande de confirmation cadastrale de droits fonciers numéro 2750 du 22 Août 2024, Monsieur DJAKPA Robert, Chef du Bureau Communal du Domaine et du Foncier de Porto-Novo, demeurant et domicilié à Porto-Novo, majeur non interdit, jouissant de ses droits civils, agissant au nom et pour le compte de l'Etat Béninois, a demandé la confirmation cadastrale de droits fonciers au registre foncier de la Commune de Porto-Novo, sur l'immeuble objet du Numéro Unique Parcellaire (NUP) 101232574 et présentant les informations ci-après :
+    - Commune : Porto-Novo
+    - Arrondissement : 5ème Arrondissement
+    - Village/Quartier : Ouando Clékanmè
+    - Centroïde : X=457480 ; Y=718712
+    - Superficie calculée : dix hectares cinquante-cinq ares trente centiares (10ha 55a 30ca) soit 105530 m²
+- Il déclare en outre que ledit immeuble appartient à l'Etat Béninois, et qu'il n'est pas grevé de droits ou charges réelles actuelles ou éventuelles.
+- **NB:** Les informations à date sur la parcelle peuvent être consultés à travers le lien https://cadastre.andf.bj/nup/101232574
+- **Date de début:** 2025-02-04
+- **Date de fin:** 2025-02-19
